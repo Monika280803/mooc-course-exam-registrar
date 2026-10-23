@@ -1,0 +1,6 @@
+{
+  "name": "MOOC Course & Exam Registrar AI Agent",
+  "description": "AI-assisted registrar agent for course enrolment, assignment eligibility, exam registration, fee approval, city allocation, and hall-ticket verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
